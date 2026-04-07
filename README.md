@@ -1,4 +1,4 @@
-# Stock Management System
+# Food Stock Management System
 
 A coursework project built with a **Flask REST API** backend and a **Kivy** mobile/desktop frontend for managing in-store stock operations.
 
